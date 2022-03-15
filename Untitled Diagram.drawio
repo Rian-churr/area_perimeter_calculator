@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T23:25:04.329Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.3" etag="eihL0MdlNgzOsREvansy" type="github"><diagram id="CalL1tyWakOuOCWhhKEE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-15T23:27:13.324Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zAwKp3SojIuZGnqbzhf7" version="17.1.3" type="github">
+  <diagram id="CalL1tyWakOuOCWhhKEE" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-2" value="Area and Perimeter calculator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-3" value="&lt;span&gt;Menu to select shap to calculate area&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-4" value="Menu to select shap to calculate perimeter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="250" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
