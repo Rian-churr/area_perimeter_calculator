@@ -1,20 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T23:27:13.324Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zAwKp3SojIuZGnqbzhf7" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T21:05:28.730Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="QPZnJKqVd2kDRDZycGNM" version="17.1.3" type="github">
   <diagram id="CalL1tyWakOuOCWhhKEE" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nJO5Oa0BP7aK41gHFsX5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-1" value="Calculation`s n method history" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="430" width="420" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="nJO5Oa0BP7aK41gHFsX5-2" value="Area and Perimeter calculator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-2" value="Area and Perimeter calculator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="770" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJO5Oa0BP7aK41gHFsX5-3" value="&lt;span&gt;Menu to select shap to calculate area&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-3" value="&lt;span&gt;Menu to select shap to calculate area&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="300" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nJO5Oa0BP7aK41gHFsX5-4" value="Menu to select shap to calculate perimeter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nJO5Oa0BP7aK41gHFsX5-4" value="Menu to select shap to calculate perimeter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s44NRWmAfcij8qLgDUHU-1" value="Answers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s44NRWmAfcij8qLgDUHU-2" value="Exit Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="550" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s44NRWmAfcij8qLgDUHU-3" value="Reset Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="640" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
